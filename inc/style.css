@@ -1,0 +1,35 @@
+.head {
+    color: #ddd !important;
+    margin-top: 15px;
+	font-size:22px;
+}
+.navbar-inverse {
+    padding: 25px;
+}
+    
+.panel-title {
+   font-size: 20px !important;
+   margin-top: 10px;
+}
+.panel-default {
+    margin-top: -20px;
+}
+.well{
+	margin-top:20px;
+}
+.profile {
+    margin-top: -2px;
+    padding-bottom: 25px;
+}
+.form-group {
+    margin-top: 20px;
+}
+.panel-default {
+    margin-top: 20px;
+}
+.style{
+	margin-top:30px;
+	background-color:black;
+	padding:40px;
+	color:#ddd;
+}
